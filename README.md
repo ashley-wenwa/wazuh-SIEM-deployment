@@ -42,26 +42,9 @@ Place your custom rules inside `config/custom-rules.xml` and restart the Wazuh m
 
 ---
 
-## 📊 Sample Screenshot
-
-![dashboard](screenshots/dashboard.png)
 
 ---
 
-## 📁 Folder Structure
-
-```
-.
-├── README.md
-├── setup/
-│   └── docker-compose.yml
-├── config/
-│   └── custom-rules.xml
-├── agents/
-│   └── ubuntu-agent-setup.sh
-├── docs/
-├── screenshots/
-```
 
 ---
 
